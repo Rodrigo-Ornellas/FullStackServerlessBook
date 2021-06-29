@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsbookauth87383e3a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
